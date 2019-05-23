@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://buyaheequ.konstantinbe.com/sitemap.xml
